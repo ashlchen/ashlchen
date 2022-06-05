@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<ashlchen>&theme=<onedark>" />
+[![Ashlchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashlchen&theme=onedark&hide=issues&show_icons=True)](https://github.com/ashlchen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashlchen&theme=onedark&layout=compact)](https://github.com/ashlchen/github-readme-stats)
+<a href="https://github.com/ashlchen/Soccer-Association-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashlchen&repo=Soccer-Association-System&theme=onedark" />
+</a>
+<a href="https://github.com/ashlchen/Small_Hand_Truck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashlchen&repo=Small_Hand_Truck&theme=onedark" />
+</a>
