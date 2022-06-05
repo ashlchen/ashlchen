@@ -1,3 +1,4 @@
+# [![Header](https://raw.githubusercontent.com/ashlchen/ashlchen/main/banner.jpg)](https://ashlchen.github.io/Portfolio/)
 ### Hi there 👋
 
 <!--
