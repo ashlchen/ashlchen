@@ -1,6 +1,9 @@
-# [![Header](https://raw.githubusercontent.com/ashlchen/ashlchen/main/banner.jpg)](https://ashlchen.github.io/Portfolio/)
-### Hi there 👋
+# [![Header](https://raw.githubusercontent.com/ashlchen/ashlchen/main/banner-2.png)](https://ashlchen.github.io/Portfolio/)
+### Hi there 👋 
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!--
 **ashlchen/ashlchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +26,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashlchen/Small_Hand_Truck">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashlchen&repo=Small_Hand_Truck&theme=onedark" />
 </a>
+
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am a passionate Yogi!
